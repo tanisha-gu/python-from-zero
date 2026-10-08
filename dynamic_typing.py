@@ -6,6 +6,6 @@ print(type(x)) # here print x =10
 x = "Python"
 print(type(x)) #but here printing x=Python
 
-# #output 
+# output  with we get
 # <class 'int'>
 # <class 'str'>
